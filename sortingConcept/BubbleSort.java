@@ -37,9 +37,9 @@ public static void main(String[] args) {
 	//Bubble sort call
 	bubbleSort(arr);
 	
-	System.out.println("After sorting array is="+Arrays.toString(arr));
+	System.out.println("Sorting of array using bubble sort="+Arrays.toString(arr));
 	sc.close();
 }
 }
-//Time complexity : O(n ^2)
+//Time complexity : O(n^2)
 //Space complexity : O(1)
